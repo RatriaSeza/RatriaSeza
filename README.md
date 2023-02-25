@@ -1,10 +1,3 @@
- _____       _        _        _____               <br>
-|  __ \     | |      (_)      / ____|              <br>
-| |__) |__ _| |_ _ __ _  __ _| (___   ___ ______ _ <br>
-|  _  // _` | __| '__| |/ _` |\___ \ / _ \_  / _` |<br>
-| | \ \ (_| | |_| |  | | (_| |____) |  __// / (_| |<br>
-|_|  \_\__,_|\__|_|  |_|\__,_|_____/ \___/___\__,_|<br>
-
 # 💫 About Me:
 🔭 I’m currently undergraduate at Diponegoro University<br>🌱 I’m currently learning Software Development<br>⚡ Want to be King of the Pirates
 
