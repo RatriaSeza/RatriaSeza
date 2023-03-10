@@ -1,4 +1,6 @@
+<div align="left">
 ![35458](https://user-images.githubusercontent.com/74123282/224381876-e9fb9fbd-a297-4e1b-a2ef-6b7dc899251c.gif)
+</div>
 
 # 💫 About Me:
 🔭 I’m currently undergraduate at Diponegoro University<br>🌱 I’m currently learning Software Development<br>⚡ Want to be King of the Pirates
