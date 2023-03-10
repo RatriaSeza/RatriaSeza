@@ -1,9 +1,7 @@
 ![35458](https://user-images.githubusercontent.com/74123282/224381876-e9fb9fbd-a297-4e1b-a2ef-6b7dc899251c.gif)
 
-<span>
 # 💫 About Me:
 🔭 I’m currently undergraduate at Diponegoro University<br>🌱 I’m currently learning Software Development<br>⚡ Want to be King of the Pirates
-</span>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ratriaseza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Satria-Reza-Ramadhan-029096277) 
