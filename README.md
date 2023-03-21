@@ -1,4 +1,4 @@
-![35458](https://user-images.githubusercontent.com/74123282/224381876-e9fb9fbd-a297-4e1b-a2ef-6b7dc899251c.gif)
+<img alt="GIF" src="https://user-images.githubusercontent.com/74123282/226651726-0db41a21-19c8-424b-867b-1bbaaecedda2.gif" width="1100" />
 
 # 💫 About Me:
 🔭 I’m currently undergraduate at Diponegoro University<br>🌱 I’m currently learning Software Development<br>⚡ Want to be King of the Pirates
