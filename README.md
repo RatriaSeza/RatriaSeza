@@ -1,4 +1,4 @@
-## Hello <img alt="GIF" src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25"/>
+## Hello <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2a2tyd3hpcW5ncjc2ZnV6cGJ2MjFwbWEyNXdnYW8zN2N3d2dmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUQnMvjMiKdgVblLrX/giphy.webp" width="25"/>
 
 # 💫 About Me:
 🔭 I’m currently undergraduate at Diponegoro University<br>🌱 I’m currently learning Software Development<br>⚡ Want to be King of the Pirates
