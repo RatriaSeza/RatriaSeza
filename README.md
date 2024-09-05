@@ -1,4 +1,4 @@
-## Hello <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2a2tyd3hpcW5ncjc2ZnV6cGJ2MjFwbWEyNXdnYW8zN2N3d2dmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUQnMvjMiKdgVblLrX/giphy.webp" width="25"/>
+## Hello <img alt="GIF" src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25"/>
 
 # 💫 About Me:
 🔭 I’m currently undergraduate at Diponegoro University<br>🌱 I’m currently learning Software Development<br>⚡ Want to be King of the Pirates
